@@ -1,6 +1,7 @@
 var x;
 x=$(document);
 x.ready(inicializarEventos);
+x.ready(presionH1);
 
 function inicializarEventos()
 {
