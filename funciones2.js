@@ -7,7 +7,6 @@ function inicializarEventos()
 {
   var x;
   x=$("h1");
-  x.click(presionH1)
 }
 
 
